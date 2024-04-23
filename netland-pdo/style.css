@@ -1,0 +1,43 @@
+body {
+    margin: 0px;
+}
+
+td {
+    color: rgb(0, 0, 0);
+    border: 1px solid black;
+    padding: 20px;
+    background-color: rgb(215, 215, 215);
+}
+
+table {
+    margin-left: 40%;
+    background-color: rgb(230, 230, 230);
+    border-collapse: collapse;
+}
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+
+td a {
+    text-decoration: none;
+}
+
+p {
+    text-align: center;
+    width: 75%;
+    margin: 0 auto;
+    border: solid 1px;
+    padding: 10px;
+}
+
+iframe {
+    display: block;
+    margin: 0 auto;
+}
+
+.container {
+    background-color: white;
+}
